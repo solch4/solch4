@@ -2,15 +2,15 @@
 
 ## ☀ ¡Hola! Soy Sol, Full Stack Developer con una fuerte orientación al Frontend ☀
 
-Me gradué como Full Stack Developer en Henry, un bootcamp intensivo con +800 horas de programación basado en prácticas y proyectos reales que te permite desenvolverte tanto en Frontend como en Backend.
+Me gradué como Full Stack Developer en Henry, un bootcamp intensivo con +800 horas de programación basado en prácticas y proyectos reales.
 
-Hice mi secundaria en la orientación de Comunicación, Arte y Diseño en la Escuela Normal Superior en Lenguas Vivas JBA, lo que despertó mi pasión por el Frontend al comenzar a estudiar programación, ya que combina diseño con funcionalidad. Además aprendí a comunicarme fluidamente en inglés.
+Hice mi secundaria en la orientación de Comunicación, Arte y Diseño en la Escuela Normal Superior en Lenguas Vivas JBA, lo que despertó mi pasión por el Frontend al comenzar a estudiar programación, ya que combina diseño con funcionalidad.
 
-Soy una persona curiosa, autodidacta, y detallista. He trabajado en proyectos individuales y grupales, lo que me ha ayudado a fortalecer mis habilidades de trabajo en equipo y autonomía. Disfruto colaborar con otros y aprender cosas nuevas.
+Soy una persona curiosa, autodidacta y con un gran ojo al detalle. He trabajado en proyectos individuales y grupales, fortaleciendo mis habilidades de trabajo en equipo y autonomía. Disfruto colaborar con otros y aprender cosas nuevas.
 
 ### 💻 Habilidades
 
-**Frontend**: HTML, CSS, Javascript, Typescript, React, React Native, Expo, Redux, Redux toolkit, Next.js, Bootstrap, Tailwind, Sass, UI frameworks (Material UI, Chakra UI, Daisy UI), Styled components, Emotion, Framer Motion, internacionalización con i18next.
+**Frontend**: HTML, CSS, JavaScript, TypeScript, React, React Native, Redux, Redux toolkit, Next.js, Bootstrap, Tailwind, Sass, UI frameworks (Material UI, Chakra UI), Styled components, internacionalización con i18next, accesibilidad web, conocimientos básicos de UX/UI.
 
 **Backend**: Node.js, Express, ORM (Prisma, Sequelize).
 
@@ -18,7 +18,7 @@ Soy una persona curiosa, autodidacta, y detallista. He trabajado en proyectos in
 
 **Testing**: Jest, Testing Library.
 
-**Herramientas**: Git, Figma, Npm, Slack, Postman.
+**Herramientas**: Git, Figma, Npm, principios SOLID, Postman, Slack, familiaridad con Photoshop y GIMP.
 
 **Metodologías ágiles**: Scrum.
 
