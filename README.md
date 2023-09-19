@@ -4,7 +4,7 @@
 
 Me gradué como Full Stack Developer en Henry, un bootcamp intensivo con +800 horas de programación basado en prácticas y proyectos reales.
 
-Hice mi secundaria en la orientación de Comunicación, Arte y Diseño en la Escuela Normal Superior en Lenguas Vivas JBA, lo que despertó mi pasión por el Frontend al comenzar a estudiar programación, ya que combina diseño con funcionalidad.
+Hice mi secundaria en la orientación de Comunicación, Arte y Diseño, lo que despertó mi pasión por el Frontend al comenzar a estudiar programación, ya que combina diseño con funcionalidad.
 
 Soy una persona curiosa, autodidacta y con un gran ojo al detalle. He trabajado en proyectos individuales y grupales, fortaleciendo mis habilidades de trabajo en equipo y autonomía. Disfruto colaborar con otros y aprender cosas nuevas.
 
